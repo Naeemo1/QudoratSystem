@@ -174,13 +174,13 @@ Access Hangfire Dashboard at: `/hangfire`
 
 ## Services Supported
 
-1. Register as an OSH General Practitioner (DOH/0208)
-2. Register as an OSH Senior Practitioner (DOH/0209)
-3. Register as an OSH Health Auditor (DOH/0214)
-4. Register as an Asbestos Supervising Consultant (DOH/0211)
-5. Register as a Workplace First Aider (DOH/0212)
-6. Registration as an OSH Consultancy Office (DOH/0213)
-7. Registration as an OSH Auditing Office (DOH/0222)
+1. Register as an OSH General Practitioner (kk/0208)
+2. Register as an OSH Senior Practitioner (kk/0209)
+3. Register as an OSH Health Auditor (kk/0214)
+4. Register as an Asbestos Supervising Consultant (kk/0211)
+5. Register as a Workplace First Aider (kk/0212)
+6. Registration as an OSH Consultancy Office (kk/0213)
+7. Registration as an OSH Auditing Office (kk/0222)
 
 Plus renewal services for all above.
 
