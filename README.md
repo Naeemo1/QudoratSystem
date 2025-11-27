@@ -1,10 +1,10 @@
 # Qudorat System
 
-A comprehensive web application for managing Public Health Practitioners and Service Providers Registration in Abu Dhabi, integrating with the TAMM platform.
+A comprehensive web application for managing Public Health Practitioners and Service Providers Registration, integrating with platform.
 
 ## Overview
 
-The Qudorat system facilitates the submission, processing, and tracking of requests submitted via the TAMM platform. It provides features such as automated request assignment, role-based access, license issuance and tracking, and archiving, supporting a seamless workflow from submission to final approval or rejection.
+The Qudorat system facilitates the submission, processing, and tracking of requests submitted vi platform. It provides features such as automated request assignment, role-based access, license issuance and tracking, and archiving, supporting a seamless workflow from submission to final approval or rejection.
 
 ## Technology Stack
 
@@ -33,7 +33,7 @@ QudoratSystem/
 ## Features
 
 ### Application Management
-- Submit applications from TAMM integration
+- Submit applications from  integration
 - Automated task assignment to available officers
 - Review and feedback workflow (Approve/Reject/Return)
 - Re-assignment capabilities for supervisors
@@ -188,14 +188,7 @@ Plus renewal services for all above.
 
 - Windows Authentication (SSO) for internal users
 - Role-based authorization
-- API key authentication for TAMM integration
+- API key authentication for integration
 - Audit logging for all actions
 - Soft delete for data retention
 
-## License
-
-Proprietary - Abu Dhabi Public Health Centre (ADPHC)
-
-## Contact
-
-For support or questions, contact the IT Department at ADPHC.
